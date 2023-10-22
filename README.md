@@ -1,16 +1,25 @@
-# consultacep
 
-A new Flutter project.
+<div style="display: flex;" align="center"><br>
+<h1>Consulta CEP em Flutter</h1>
+Desafiado pelo Bootcamp Santander da DIO de Mobile com Flutter, criei uma aplicação que consome a API ViaCEP e cadastra no banco de dados Back4App, com um CRUD usando requisiç~eos HTTP, utilizando o framework Flutter.
+Neste Desafio, você terá que criar uma aplicação Flutter do Zero aplicando na prática os conceitos de Assincronismo e Consumo de API.
+  <br>
+</div>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+##  :hammer: Funcionalidades do projeto
+Consulte o seu CEP digitando o número dele na tela inicial, cadastre-o se quiser e verifique ele na página ao lado, tendo diretamente requisições de um banco de dados, sendo possível alteração e exclusão.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## :file_folder: Acesso ao projeto
+Baixe localmente e rode a aplicação em um emulador ou web (Foi construído para celulares, especialmente).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tecnologia Utilizada
+<div style="display: inline_block" align="center"><br>
+  <center>
+  <img align="center" alt="Dart" height="100" width="100" src="https://github.com/GabrielFMontoni/calculadora-imc-java/assets/121250213/144613af-e940-407e-95ee-fd92b18ec6cb">
+    
+  </center>
+
+</div>
